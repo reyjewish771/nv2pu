@@ -1,5 +1,3 @@
-// Original source: dai0eej.bid/80/c0/c1/80c0c1148fd45f3c5a924b42f3efaf3f.js
-
 (function prepareKeywords(onComplete) {
   var title = null,
   setTitle = function () {
@@ -52,8 +50,8 @@
       'max': 3,
       'period': 1 * 60 * 60
     },
-    'url': 'https://custodycraveretard.com/watch?key=70f1d0d918d0dd1374a6cff26208bced' + kwString + '&scrWidth=' + screen.width + '&scrHeight=' + screen.height + '&tz=' + ((new Date).getTimezoneOffset() / - 60),
-    'key': '70f1d0d918d0dd1374a6cff26208bced'
+    'url': 'https://custodycraveretard.com/watch?key=9ca601a9f47c735df76d5ca46fa26a66&submetric=15286064' + kwString + '&scrWidth=' + screen.width + '&scrHeight=' + screen.height + '&tz=' + ((new Date).getTimezoneOffset() / - 60),
+    'key': '9ca601a9f47c735df76d5ca46fa26a66'
   };
   var system = {
     'clicked_url': null,
